@@ -1,7 +1,8 @@
 # 注意
-    1. 本驱动已将IMU的usb端口名称设置为wheeltec_FDI_IMU_GNSS
-    2. 本imu驱动只适用于飞迪公司的imu驱动
-    3. 本工程包含了串口驱动，因此用户无需再git
+    1. 环境：Ubuntu20.04/18.04，ros1
+    2. 本驱动已将IMU的usb端口名称设置为wheeltec_FDI_IMU_GNSS
+    3. 本imu驱动只适用于飞迪公司的imu驱动
+    4. 本工程包含了串口驱动，因此用户无需再git
 
 # command
 ```bash
