@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial-test-timer.dir/unit/unix_timer_tests.cc.o  -o /home/jetson/imu/devel/lib/serial/serial-test-timer   -L/home/jetson/imu/build/gtest  -Wl,-rpath,/home/jetson/imu/build/gtest:/home/jetson/imu/build/gtest/lib:/home/jetson/imu/devel/lib ../../gtest/lib/libgtest.so /home/jetson/imu/devel/lib/libserial.so -lpthread -lrt -lpthread 

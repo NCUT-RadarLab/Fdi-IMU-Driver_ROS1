@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial-test.dir/unix_serial_tests.cc.o  -o /home/jetson/imu/devel/lib/serial/serial-test   -L/home/jetson/imu/build/gtest  -Wl,-rpath,/home/jetson/imu/build/gtest:/home/jetson/imu/build/gtest/lib:/home/jetson/imu/devel/lib ../../gtest/lib/libgtest.so /home/jetson/imu/devel/lib/libserial.so -lutil -lpthread -lrt -lpthread 

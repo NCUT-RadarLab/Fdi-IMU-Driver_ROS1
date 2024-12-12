@@ -1,0 +1,2 @@
+fdilink_ahrs:serial-main
+-DCATKIN_DEVEL_PREFIX=/home/jetson/imu/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/imu/install -G Unix Makefiles
