@@ -240,6 +240,8 @@ namespace FDILink
 		uint8_t frame_header[7];
 		uint8_t read_msg[75];
 	};
+
+	
 	union Raw_GNSS_frame_read
 	{
 		struct read_Raw_GNSS_struct frame;
